@@ -1,0 +1,160 @@
+Syncing 1106394/1107422
+[
+  {
+    "block_height": 1043059,
+    "datetime": 1605451288,
+    "txid": "04e1cb89fcb216b14fde81428c1aa06cbb0fbd87746dda5f47765354e9fc4170",
+    "amount": 15010000,
+    "address": "t1VSD6R9XQnSScY2DQcYm9LsA56C9YD8Hhe",
+    "memo": null
+  },
+  {
+    "block_height": 1043062,
+    "datetime": 1605451547,
+    "txid": "23d403d8a32f803604745cc14c7b2b0ec30ebb7df934ba6b2cd620641a1fc429",
+    "amount": -15010000,
+    "outgoing_metadata": [
+      {
+        "address": "t1eXcsyqHQTtVufAM5T7UadLbPeR3csdn19",
+        "value": 5000000,
+        "memo": null
+      },
+      {
+        "address": "t1dc8v74ZX7NwjPDA4LsomuU58zLCHSX8wx",
+        "value": 5000000,
+        "memo": null
+      },
+      {
+        "address": "t1fLpFyzycXvuefAymeh4HPCuQxvq2ng8Wx",
+        "value": 5000000,
+        "memo": null
+      }
+    ]
+  },
+  {
+    "block_height": 1105472,
+    "datetime": 1610158236,
+    "position": 0,
+    "txid": "d45d16eb1eb3730a45518399b826192618b4f98c1b19f1a68b73d963696b672e",
+    "amount": 1000000,
+    "address": "zs19dedmnrkhq2pth3jp3cnn6c5jqshnu9ss2fljllm9l0tlgqw0mtpvs9207ecywwtmx7wkrvksvn",
+    "memo": null
+  },
+  {
+    "block_height": 1105499,
+    "datetime": 1610160057,
+    "txid": "b5e2a821663b96a3ecdd8597232f7e3e8df4c440c3306ba2a995d76c8212d824",
+    "amount": -110000,
+    "outgoing_metadata": [
+      {
+        "address": "zs1j29m7zdhhyy2eqrz89l4zhk0angqjh368gqkj2vgdyqmeuultteny36n3qsm47zn8du5sw3ts7f",
+        "value": 100000,
+        "memo": "Just get a refurbed lenovo on Newegg and use Linux, they're like $200 and super dece."
+      }
+    ]
+  },
+  {
+    "block_height": 1105608,
+    "datetime": 1610168120,
+    "txid": "706fc2a44f3453b27b202fc6178b3de9d0cc52d1701a40511b8cbf9178fbc2bc",
+    "amount": -110000,
+    "outgoing_metadata": [
+      {
+        "address": "zs1j29m7zdhhyy2eqrz89l4zhk0angqjh368gqkj2vgdyqmeuultteny36n3qsm47zn8du5sw3ts7f",
+        "value": 100000,
+        "memo": "LIKE::866"
+      }
+    ]
+  },
+  {
+    "block_height": 1106086,
+    "datetime": 1610204047,
+    "txid": "111cfc90487e33dafaa35d8b4efa67eb1a5687e5f36c23ec594bd054f1ee565d",
+    "amount": -110000,
+    "outgoing_metadata": [
+      {
+        "address": "zs1j29m7zdhhyy2eqrz89l4zhk0angqjh368gqkj2vgdyqmeuultteny36n3qsm47zn8du5sw3ts7f",
+        "value": 100000,
+        "memo": "REPLY::874 Running new wallet software locally is extra risk of foul play or technical catastophe. A web interface is way faster and easier to share. I sorta fell off on my 'zcash-as-a-cdn' kick, but in view of recent high-profile deplatformings, it's mb looking more like a priority again. It feels like a powerful idea, an important nut to crack!"
+      }
+    ]
+  },
+  {
+    "block_height": 1106280,
+    "datetime": 1610218614,
+    "txid": "e710f7c8bcdb58484a2fb8fbdcd52afaaec7affdb093691af3e801ccfaec9af0",
+    "amount": -110000,
+    "outgoing_metadata": [
+      {
+        "address": "zs1j29m7zdhhyy2eqrz89l4zhk0angqjh368gqkj2vgdyqmeuultteny36n3qsm47zn8du5sw3ts7f",
+        "value": 100000,
+        "memo": "LIKE::856"
+      }
+    ]
+  },
+  {
+    "block_height": 1106287,
+    "datetime": 1610219476,
+    "txid": "9a0c9ecddb1b0d8dc5f58296bf984bca6c69067f66cf94ffd0cc938e80bba737",
+    "amount": -110000,
+    "outgoing_metadata": [
+      {
+        "address": "zs1j29m7zdhhyy2eqrz89l4zhk0angqjh368gqkj2vgdyqmeuultteny36n3qsm47zn8du5sw3ts7f",
+        "value": 100000,
+        "memo": "LIKE::858"
+      }
+    ]
+  },
+  {
+    "block_height": 1106470,
+    "datetime": 1610233333,
+    "txid": "1bce663dfd63821de80e5e6a127960b4961b0eee0e3ec07cabf7275712fe9f74",
+    "amount": -110000,
+    "outgoing_metadata": [
+      {
+        "address": "zs1j29m7zdhhyy2eqrz89l4zhk0angqjh368gqkj2vgdyqmeuultteny36n3qsm47zn8du5sw3ts7f",
+        "value": 100000,
+        "memo": "dark mode is up - check the navbar"
+      }
+    ]
+  },
+  {
+    "block_height": 1107284,
+    "datetime": 1610295080,
+    "txid": "54e5fbc3b85a669677d72026966661716fe80bb43e5746536b245bc766cf93ab",
+    "amount": -110000,
+    "outgoing_metadata": [
+      {
+        "address": "zs1j29m7zdhhyy2eqrz89l4zhk0angqjh368gqkj2vgdyqmeuultteny36n3qsm47zn8du5sw3ts7f",
+        "value": 100000,
+        "memo": "REPLY::862 Save the board's view key and you can audit its entire history down to the like."
+      }
+    ]
+  },
+  {
+    "block_height": 1107290,
+    "datetime": 1610295660,
+    "txid": "a326ea46cd972c802d9f520ac60594c83e949320560f67d6ce0fa5dfba7a91dd",
+    "amount": -110000,
+    "outgoing_metadata": [
+      {
+        "address": "zs1j29m7zdhhyy2eqrz89l4zhk0angqjh368gqkj2vgdyqmeuultteny36n3qsm47zn8du5sw3ts7f",
+        "value": 100000,
+        "memo": "LIKE::885"
+      }
+    ]
+  },
+  {
+    "block_height": 1107348,
+    "datetime": 1610299957,
+    "txid": "75957394b02d720d52f983c07d404bd583868542eab0fcc51b2d1621686b902c",
+    "amount": -110000,
+    "outgoing_metadata": [
+      {
+        "address": "zs1j29m7zdhhyy2eqrz89l4zhk0angqjh368gqkj2vgdyqmeuultteny36n3qsm47zn8du5sw3ts7f",
+        "value": 100000,
+        "memo": "REPLY::887 If everyone suddenly stops hating ZEC, that's your top signal"
+      }
+    ]
+  }
+]
